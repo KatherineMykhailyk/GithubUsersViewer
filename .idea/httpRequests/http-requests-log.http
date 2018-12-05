@@ -1,0 +1,40 @@
+GET http://localhost:8080/public/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-25T084707.200.html
+
+###
+
+POST http://localhost:8080/public/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-25T084623.404.html
+
+###
+
+GET http://localhost:8080/public/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-25T084616.200.html
+
+###
+
+POST http://localhost:8080/public/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-25T084553.404.html
+
+###
+
+GET http://localhost:8080/public/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-25T084406.200.html
+
+###
+
